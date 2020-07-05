@@ -4,6 +4,7 @@ Green
 Orange
 Violet
 Pink
+Unicorn
 Indigo
 Blue
 All are the color of poems.
